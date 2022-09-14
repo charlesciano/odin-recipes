@@ -1,0 +1,13 @@
+*{
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+}
+h1, ul{
+  font-size: 60px;
+  color: red;
+  text-align: center;
+}
+ul{
+  font-size: 48px;
+}
+
